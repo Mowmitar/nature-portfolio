@@ -1,0 +1,52 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: aquamarine;
+
+}
+
+h1 {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+
+section {
+    display: flex;
+
+
+}
+
+.first {
+    width: 50%;
+    padding: 30px;
+    text-align: justify;
+}
+
+.second {
+    padding: 10px 20px 30px 40px;
+}
+
+.hire {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(gray, black);
+    padding: 10px 25px;
+    font-weight: 900;
+    border-radius: 5px;
+
+}
+
+.third {
+    width: 30%;
+}
+
+.forth {
+
+    padding-left: 100px;
+}
+
+.forth p {
+    padding-right: 10px;
+    text-align: justify;
+}
